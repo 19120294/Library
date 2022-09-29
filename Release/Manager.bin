@@ -1,0 +1,33 @@
+Manager
+
+========Quan li tai khoan
+1 Thay doi mat khau
+2 Cap nhat thong tin ca nhan
+
+========Quan li doc gia
+3 Xem danh sach doc gia trong thu vien
+4 Them doc gia
+5 Tim kiem doc gia theo CMND
+6 Tim kiem sach theo ho ten
+7 Chinh sua thong tin mot doc gia
+8 Xoa thong tin mot doc gia
+
+
+========Quan li sach
+9 Xem danh sach cac sach trong thu vien
+10 Them sach
+11 Tim kiem sach theo ISBN
+12 Tim kiem sach theo ten sach
+13 Chinh sua thong tin mot quyen sach
+14 Xoa thong tin sach
+15 Lap phieu muon sach
+16 Lap phieu tra sach
+
+=======Cac thong ke co ban
+17 Thong ke so luong sach trong thu vien
+18 Thong ke so luong doc gia
+19 Thong ke so luong doc gia theo gioi tinh
+20 Thong ke so sach dang duoc muon
+21 Thong ke danh sach doc gia bi tre han
+22 Luu du lieu
+0 Dang xuat

@@ -1,0 +1,25 @@
+Staff
+	
+========Quan li tai khoan
+1 Thay doi mat khau
+2 Cap nhat thong tin ca nhan
+
+========Quan li doc gia
+3 Xem danh sach doc gia trong thu vien
+4 Them doc gia
+5 Chinh sua thong tin mot doc gia
+6 Tim kiem doc gia theo CMND
+7 Tim kiem sach theo ho ten
+
+========Quan li sach
+8 Tim kiem sach theo ISBN
+9 Tim kiem sach theo ten sach
+
+10 Lap phieu muon sach
+11 Lap phieu tra sach
+
+=======Cac thong ke co ban
+12 Thong ke so sach dang duoc muon
+13 Thong ke danh sach doc gia bi tre han
+14 Luu du lieu
+0 Dang xuat
